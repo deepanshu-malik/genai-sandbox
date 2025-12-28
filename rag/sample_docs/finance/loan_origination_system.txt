@@ -1,0 +1,23 @@
+Loan Origination System (LOS) Overview
+
+A Loan Origination System is a software platform that automates the entire loan application and approval process from initial application to funding. Modern LOS platforms integrate with credit bureaus, income verification services, and document management systems.
+
+The typical loan origination workflow consists of several stages. First is the pre-qualification stage where basic borrower information is collected. The system performs soft credit pulls to provide initial loan estimates without impacting the borrower's credit score.
+
+Next comes the full application stage where detailed borrower information is collected including employment history, income documentation, asset statements, and liabilities. The LOS validates this data against third-party sources and flags any discrepancies for manual review.
+
+Credit underwriting is a critical component of the LOS. The system automatically pulls credit reports from all three major bureaus - Experian, Equifax, and TransUnion. It calculates the borrower's debt-to-income ratio (DTI) and compares it against lending guidelines. Most conventional loans require a DTI below 43 percent.
+
+Income verification has become increasingly automated. Modern LOS platforms integrate with services like The Work Number and Equifax to verify employment and income electronically. For self-employed borrowers, the system can analyze bank statements using AI to calculate qualifying income.
+
+Asset verification follows similar automation. The LOS can connect directly to borrowers' bank accounts to verify funds for down payment and reserves. This eliminates the need for manual bank statement uploads in many cases.
+
+The loan decision engine uses configurable business rules to determine loan eligibility. These rules consider credit score, DTI ratio, loan-to-value ratio (LTV), cash reserves, and property type. Decisions are typically categorized as approved, approved with conditions, or denied.
+
+Document management is integrated throughout the process. All borrower submissions, third-party verifications, and system-generated documents are stored in a central repository with audit trails. This ensures compliance with regulations like TRID (TILA-RESPA Integrated Disclosure).
+
+Compliance features are built into modern LOS platforms. The system automatically generates required disclosures, tracks timing requirements, and flags potential fair lending issues. Integration with HMDA (Home Mortgage Disclosure Act) reporting tools ensures accurate regulatory submissions.
+
+For lenders, the LOS provides real-time pipeline management dashboards showing loan status, aging, and bottlenecks. Automated task management ensures nothing falls through the cracks and loans move efficiently through the process.
+
+Integration capabilities are essential for modern LOS platforms. APIs connect to credit bureaus, automated valuation models (AVMs), title companies, closing platforms, and loan servicing systems. This creates a seamless end-to-end lending ecosystem.

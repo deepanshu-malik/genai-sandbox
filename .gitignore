@@ -29,6 +29,11 @@ build/
 # Jupyter
 .ipynb_checkpoints/
 
+# Databases
+rag/databases/
+*_db/
+*.db
+
 # OS
 .DS_Store
 Thumbs.db

@@ -1,0 +1,27 @@
+Credit Report Analysis and Interpretation
+
+Credit reports are comprehensive records of an individual's credit history maintained by three major credit bureaus - Experian, Equifax, and TransUnion. Understanding how to read and interpret credit reports is essential for lending decisions, credit risk assessment, and regulatory compliance.
+
+Personal identifying information forms the foundation of every credit report. This includes full legal name, current and previous addresses, Social Security number, date of birth, and employment history. Lenders must verify this information matches loan application data to prevent identity fraud and ensure accurate credit pulls.
+
+Credit accounts are the core component of credit reports. Each account shows the creditor name, account type (revolving, installment, or mortgage), account number, opening date, credit limit or original loan amount, current balance, and payment history. The payment history section is particularly important as it shows whether payments were made on time or if there were any delinquencies.
+
+Account status indicators tell the current state of each account. Common statuses include "open", "closed", "paid", "charged off", "in collections", or "included in bankruptcy". Derogatory marks like charge-offs or collections significantly impact creditworthiness and may require explanation letters from borrowers.
+
+Payment history is reported using a month-by-month code system. A "current" or "OK" status indicates on-time payment. Delinquency is shown as 30, 60, 90, 120, 150, or 180 days past due. These late payment marks remain on credit reports for seven years from the original delinquency date and have decreasing impact over time.
+
+Public records section contains serious negative items including bankruptcies, tax liens, and civil judgments. Chapter 7 bankruptcies remain on credit reports for 10 years while Chapter 13 bankruptcies stay for 7 years. Recent bankruptcy reform laws have changed reporting requirements and lenders must understand these nuances.
+
+Credit inquiries are divided into hard pulls and soft pulls. Hard inquiries occur when a borrower applies for credit and are visible to other lenders. Multiple hard inquiries within a short period can lower credit scores. Soft inquiries include pre-qualification checks and borrower's own credit monitoring and do not affect scores.
+
+The credit score is a numerical representation of credit risk typically ranging from 300 to 850. FICO scores are most commonly used in lending. Scores above 740 generally qualify for best rates while scores below 620 are considered subprime. The score is calculated based on payment history (35%), amounts owed (30%), length of credit history (15%), new credit (10%), and credit mix (10%).
+
+Debt-to-credit ratio, also called credit utilization, is a key factor in credit scoring. This ratio compares current revolving balances to total available credit limits. Ratios above 30 percent can negatively impact scores. Lenders look for borrowers who manage credit responsibly by keeping utilization low.
+
+For mortgage lending, credit report analysis includes calculating the borrower's total monthly debt obligations. This includes minimum payments on credit cards, installment loan payments, student loans, auto loans, and any other recurring debts. These amounts are used in the critical debt-to-income ratio calculation.
+
+Tri-merge credit reports combine data from all three bureaus into a single comprehensive report. Discrepancies between bureaus must be investigated and resolved. Lenders typically use the middle of the three credit scores for qualification decisions. If there are only two scores, the lower score is used.
+
+Credit disputes and corrections are common in the lending process. Borrowers have the right to dispute inaccurate information on their credit reports. The bureaus must investigate within 30 days. Lenders must wait for dispute resolution before making final credit decisions, with some exceptions for rapid rescores in mortgage lending.
+
+Regulatory requirements govern credit report usage. The Fair Credit Reporting Act (FCRA) requires lenders to have permissible purpose for pulling credit, provide adverse action notices if credit is denied, and maintain credit report security. The Equal Credit Opportunity Act (ECOA) prohibits discrimination in credit decisions.
