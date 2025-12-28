@@ -9,6 +9,39 @@
 - `04_async_calls.py` - Concurrent API calls for better performance
 - `05_rate_limiting.py` - Semaphore-based rate limiting for batch operations
 
+## Project Structure
+
+```
+~/Learnings/
+├── 01_first_call.py          # Session 1: LLM API basics
+├── 02_streaming.py
+├── 03_production_patterns.py
+├── 04_async_calls.py
+├── 05_rate_limiting.py
+├── rag/                       # Session 2: RAG systems
+│   ├── 01_embeddings.py
+│   ├── 02_chunking_strategies.py
+│   ├── 03_vector_database.py
+│   ├── 04_complete_rag_pipeline.py
+│   ├── 05_document_qa_tool.py
+│   ├── finance_rag_demo.py
+│   ├── embeddings_demo.ipynb
+│   ├── finance_rag_notebook.ipynb
+│   ├── databases/             # Vector databases (gitignored)
+│   │   ├── chroma/
+│   │   ├── document_qa/
+│   │   └── finance_rag/
+│   ├── sample_docs/           # Sample documents for testing
+│   │   └── finance/
+│   └── README.md             # Detailed RAG documentation
+├── MEMORY.md                  # Session history and learning notes
+├── .env                       # API keys (gitignored)
+├── .gitignore
+└── requirements.txt
+```
+
+**Note:** All databases are stored in `rag/databases/` and excluded from git via `.gitignore` to keep the repository clean.
+
 ## Setup
 ```bash
 # Install dependencies
