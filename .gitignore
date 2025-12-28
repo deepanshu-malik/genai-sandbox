@@ -208,3 +208,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Databases
+rag/databases/
+*_db/
+*.db
+
+# OS
+.DS_Store
+Thumbs.db

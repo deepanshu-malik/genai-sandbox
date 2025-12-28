@@ -1,0 +1,31 @@
+Mortgage Underwriting Guidelines and Standards
+
+Underwriting is the process of evaluating a borrower's creditworthiness and the property's value to determine loan approval and terms. Modern underwriting combines automated decision engines with manual review by experienced underwriters.
+
+The three C's of underwriting form the foundation of credit evaluation - Capacity, Credit, and Collateral. Capacity refers to the borrower's ability to repay based on income and employment stability. Credit measures the borrower's willingness to repay based on past payment history. Collateral is the property value that secures the loan.
+
+Income qualification requires thorough documentation and verification. For W-2 employees, underwriters verify employment with recent pay stubs showing year-to-date earnings, W-2 forms from the past two years, and verbal verification of employment (VOE) from the employer. Income must be stable and likely to continue for at least three years.
+
+Self-employed borrowers face more stringent documentation requirements. Typically two years of personal and business tax returns with all schedules are required. Underwriters calculate qualifying income by averaging net income after adding back non-cash expenses like depreciation. A year-over-year declining income trend may require additional explanation or lower qualifying amounts.
+
+Debt-to-income ratios are the primary measure of payment capacity. The front-end ratio compares total monthly housing payment (including principal, interest, taxes, insurance, and HOA fees) to gross monthly income. The back-end ratio includes all monthly debts. Most conventional loans require front-end below 28% and back-end below 43%, though some programs allow higher ratios with compensating factors.
+
+Compensating factors can offset higher risk indicators. Examples include large cash reserves (6+ months of payments), minimal increase in housing payment from current situation, excellent credit history, or significant equity in the property. Underwriters document these factors to justify approvals that exceed standard guidelines.
+
+Credit evaluation goes beyond just the credit score. Underwriters review the entire credit report looking for patterns of behavior. Recent delinquencies are more concerning than older items. Collections and charge-offs may require payment or explanation depending on their age and amount. Student loans must include appropriate payment amounts even if in deferment.
+
+Collateral assessment ensures the property value supports the loan amount. The loan-to-value ratio (LTV) is calculated by dividing the loan amount by the appraised value or purchase price (whichever is less). Lower LTV ratios represent less risk. Most conventional loans require private mortgage insurance (PMI) when LTV exceeds 80%.
+
+Property appraisals must be performed by licensed appraisers following USPAP (Uniform Standards of Professional Appraisal Practice) guidelines. The appraisal determines market value using comparable sales, verifies property condition, and identifies any adverse conditions that could affect marketability. Underwriters review appraisals for accuracy and reasonableness.
+
+Reserve requirements ensure borrowers have funds remaining after closing. Reserves are measured in months of principal, interest, taxes, and insurance (PITI) payments. Typical requirements range from 2 months for owner-occupied purchases to 6+ months for investment properties or higher-risk loans. Only liquid or semi-liquid assets count toward reserves.
+
+Asset documentation verifies down payment source and reserves. Bank statements covering the most recent 2 months are standard. Underwriters review for large deposits which may require explanation to ensure they're not undisclosed debts. Gift funds must be properly documented with gift letters stating no repayment is expected.
+
+Automated underwriting systems (AUS) like Fannie Mae's Desktop Underwriter (DU) and Freddie Mac's Loan Product Advisor (LPA) streamline the process. These systems analyze borrower data and provide approve/refer recommendations with specific documentation requirements. AUS approvals allow for reduced documentation in many cases.
+
+Manual underwriting is required when AUS returns a "refer" decision or for loans outside automated system parameters. Manual underwriting follows detailed matrices that specify required credit scores, DTI limits, and documentation for various loan scenarios. This process requires more time and experienced underwriters.
+
+Conditions to approval are specific items that must be satisfied before loan closing. Common conditions include updated pay stubs, final verification of employment, explanation letters for credit items, or additional documentation of income sources. Clearing conditions efficiently is critical to meeting closing timelines.
+
+Quality control and compliance are ongoing underwriting responsibilities. Post-closing audits verify underwriting decisions met guidelines and all required documentation is present. Defects must be corrected and may result in loans being repurchased by the lender if sold to investors.

@@ -1,0 +1,25 @@
+Loan Management System (LMS) Fundamentals
+
+A Loan Management System is the core platform that handles all post-origination loan activities from first payment through payoff or default. The LMS is critical for maintaining accurate loan data, processing payments, managing escrow accounts, and ensuring regulatory compliance.
+
+Payment processing is the primary function of any LMS. The system calculates monthly payment amounts based on loan terms, interest rate, and amortization schedule. It processes payments received through various channels including ACH, wire transfer, check, and online payment portals. Each payment is applied according to specific waterfall logic - typically interest first, then principal, then any fees or escrow obligations.
+
+Escrow management is essential for loans that include property tax and insurance payments. The LMS maintains separate escrow accounts, calculates required reserves, and disburses payments to taxing authorities and insurance companies on behalf of borrowers. Annual escrow analyses are performed to adjust payment amounts based on actual costs and required cushions.
+
+Delinquency management features help lenders identify and work with borrowers who fall behind on payments. The system automatically tracks days past due (DPD) and triggers escalating collection activities. Early stage delinquencies may receive automated reminder calls or emails. As delinquency progresses, the system creates work queues for loss mitigation specialists.
+
+For borrowers in financial hardship, the LMS supports various loss mitigation options. These include forbearance plans that temporarily reduce or suspend payments, repayment plans that spread past-due amounts over future payments, and loan modifications that permanently change loan terms. The system tracks all workout arrangements and monitors compliance.
+
+Interest rate adjustments are handled automatically for ARM (Adjustable Rate Mortgage) loans. The LMS monitors index rates, applies margin calculations, and generates required notices to borrowers about upcoming rate changes. Payment amounts are recalculated based on the new rate and remaining loan term.
+
+Default management capabilities become critical when loss mitigation efforts fail. The LMS tracks foreclosure timelines which vary by state, generates required legal notices, and manages the foreclosure process through to property disposition. Recovery amounts are tracked against loan balances to calculate final loss amounts.
+
+Investor reporting is a key function for loans sold on the secondary market. The LMS generates monthly remittance reports showing payment activity, delinquency status, and loan performance metrics. These reports must comply with investor-specific requirements and industry standards like MISMO (Mortgage Industry Standards Maintenance Organization) formats.
+
+Regulatory compliance features ensure adherence to RESPA (Real Estate Settlement Procedures Act), TILA (Truth in Lending Act), and FDCPA (Fair Debt Collection Practices Act) requirements. The system maintains detailed audit trails of all loan changes, payment applications, and borrower communications.
+
+Customer self-service portals integrated with the LMS allow borrowers to view loan details, make payments, request payoff quotes, and access tax documents. Mobile apps extend these capabilities to smartphones and tablets for on-the-go account management.
+
+For lenders, the LMS provides comprehensive reporting and analytics. Portfolio dashboards show delinquency trends, prepayment rates, and risk metrics. Performance analytics help identify process improvements and benchmark against industry standards.
+
+Integration with other systems is critical. The LMS typically connects to general ledger systems for accounting, core banking platforms for deposits and payments, and servicing sub-systems for specialized functions like bankruptcy tracking or property preservation.

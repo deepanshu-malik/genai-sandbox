@@ -49,13 +49,27 @@ openai.RateLimitError: Error code: 429 - Rate limit reached for gpt-4o-mini
 - Check your limits: https://platform.openai.com/account/rate-limits
 - Add payment method to increase limits: https://platform.openai.com/account/billing
 
-## Next Session
-- Add OpenAI payment method to continue
-- Phase 2: RAG - Embeddings and semantic search
+### Session 2 - RAG (Retrieval Augmented Generation) ✅ COMPLETED
+Complete RAG learning path from fundamentals to production:
+- `rag/01_embeddings.py` - Text embeddings and cosine similarity
+- `rag/02_chunking_strategies.py` - Document chunking strategies (simple, sentence, paragraph)
+- `rag/03_vector_database.py` - ChromaDB for persistent embedding storage with metadata filtering
+- `rag/04_complete_rag_pipeline.py` - Full RAG: retrieval + augmented prompts + generation
+- `rag/05_document_qa_tool.py` - **Production-ready CLI tool for document Q&A!**
 
-## Phase 2 Preview: RAG
-Once you add billing, you'll learn:
-- Embeddings and semantic search
-- Vector databases (Chroma, Pinecone)
-- Document chunking strategies
-- Building a document Q&A system
+**🎯 What you can do now:**
+- Build RAG systems from scratch
+- Choose optimal chunking strategies
+- Work with vector databases (ChromaDB, Pinecone, etc.)
+- Deploy production Q&A systems with citations
+- Optimize for cost and performance
+
+**See `rag/README.md` for complete documentation!**
+
+## Next Sessions
+Ideas for continuing your GenAI journey:
+- **LangChain**: Framework for building LLM applications
+- **LlamaIndex**: Specialized framework for RAG and data connectors
+- **Agents**: Autonomous systems that use tools and make decisions
+- **Fine-tuning**: Customize models for your specific use case
+- **Production deployment**: FastAPI + streaming + monitoring
