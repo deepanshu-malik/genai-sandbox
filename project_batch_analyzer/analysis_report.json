@@ -1,0 +1,42 @@
+{
+  "summary": {
+    "total_documents": 3,
+    "processing_time": "4.06s",
+    "total_tokens": 363,
+    "total_cost": "$0.000054"
+  },
+  "documents": [
+    {
+      "sentiment": "neutral",
+      "key_topics": [
+        "value for money",
+        "satisfaction"
+      ],
+      "summary": "The product is adequate and fairly priced but does not stand out.",
+      "file": "review3.txt",
+      "tokens": 116
+    },
+    {
+      "sentiment": "negative",
+      "key_topics": [
+        "product damage",
+        "customer service",
+        "disappointment"
+      ],
+      "summary": "The customer had a negative experience due to a damaged product and unhelpful customer service.",
+      "file": "review2.txt",
+      "tokens": 124
+    },
+    {
+      "sentiment": "positive",
+      "key_topics": [
+        "product quality",
+        "shipping speed",
+        "customer satisfaction"
+      ],
+      "summary": "The customer is very pleased with the product and plans to purchase again due to fast shipping and excellent quality.",
+      "file": "review1.txt",
+      "tokens": 123
+    }
+  ]
+}
